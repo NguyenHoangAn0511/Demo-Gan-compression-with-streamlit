@@ -3,7 +3,7 @@
 Nguyễn Hoàng An - 18520430
 
 Dương Trọng Văn - 18521630
-## Installation - (Window only)
+## Installation
 Clone this repo
 ```bash
 git clone https://github.com/NguyenHoangAn0511/Demo-Gan-compression-with-streamlit
