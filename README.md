@@ -1,9 +1,14 @@
 # Demo-Gan-compression-with-streamlit
-## Installation
+## Member:
+Nguyễn Hoàng An - 18520430
+
+Dương Trọng Văn - 18521630
+## Installation - (Window only)
 
 Create new conda environment
 ```bash
 conda create --name CycleGan
+conda activate CycleGan
 ```
 Use the package manager [conda](https://conda.io/projects/conda/en/latest/index.html) to install Pytorch with GPU.
 
