@@ -29,9 +29,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r requirements.txt
 ```
 ## Run demo
-Change directory to the folder where you put infer.py
+Change directory to Demo-Gan-compression-with-streamlit
 ```bash
-cd Demo-Gan-compression-with-streamlit
+cd your/path/to/Demo-Gan-compression-with-streamlit
 ```
 Use the streamlit web page to view Demo
 ```bash
