@@ -50,6 +50,7 @@ def main():
     HomeScreen()
 
 def HomeScreen():
+    st.title("Horse to zibra translation")
     c1, c2 = st.beta_columns([1,1])
     
     with c1:
