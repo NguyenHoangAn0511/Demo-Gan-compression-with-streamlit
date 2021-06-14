@@ -54,13 +54,13 @@ def HomeScreen():
     c1, c2 = st.beta_columns([1,1])
     
     with c1:
-        st.header('Horse')
+        # st.header('Horse')
         video_file1 = open('data/output.mp4', 'rb')
         video_bytes1 = video_file1.read()
         st.video(video_bytes1, format='video/mp4', start_time=0)
 
     with c2:
-        st.header('Zebra')
+        # st.header('Zebra')
         video_file = open('data/output_2.mp4', 'rb')
         video_bytes = video_file.read()
         st.video(video_bytes, format='video/mp4', start_time=0)
